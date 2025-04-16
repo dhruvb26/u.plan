@@ -100,13 +100,4 @@ For major changes, please open an issue to discuss your proposed changes beforeh
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-## Contact
-
-For any questions or feedback, please reach out to:
-
-- **Shreyas Bansal**: shreyas@example.com
-- **Project Repository**: [https://github.com/yourusername/u-plan](https://github.com/yourusername/u-plan)
-
----
-
 This README provides a comprehensive overview of the u-plan project, setup instructions, and contribution guidelines, which are essential for any open-source or collaborative project on GitHub.
